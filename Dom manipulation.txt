@@ -1,0 +1,6 @@
+Dom manipulation
+document.getelement by id
+
+arrow functions in javascript
+lambda expression
+arrays -> map func, map reducer
